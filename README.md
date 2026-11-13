@@ -208,4 +208,4 @@ This repository serves as the official landing page for 18 Wheels of Steel Extre
 **Get the most recent version of 18 Wheels of Steel Extreme Trucker 2 today!**
 
 ---
-**Last updated:** 2026-11-13 16:00:15 UTC
+**Last updated:** 2026-11-13 22:25:43 UTC
